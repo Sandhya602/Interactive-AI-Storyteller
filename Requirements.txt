@@ -1,1 +1,12 @@
+# Core libraries
+transformers>=4.30.0
+torch>=1.13.0        # or install the appropriate torch for your CUDA/CPU
+datasets>=2.0.0
+gradio>=3.0
+sentencepiece
+accelerate
+scikit-learn
+pandas
+tqdm
+ipykernel
 
